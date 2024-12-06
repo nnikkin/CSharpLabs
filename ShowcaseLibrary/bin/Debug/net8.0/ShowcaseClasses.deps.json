@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ShowcaseClasses/1.0.0": {
+        "dependencies": {
+          "BarcodeClasses": "1.0.0"
+        },
+        "runtime": {
+          "ShowcaseClasses.dll": {}
+        }
+      },
+      "BarcodeClasses/1.0.0": {
+        "runtime": {
+          "BarcodeClasses.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ShowcaseClasses/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BarcodeClasses/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

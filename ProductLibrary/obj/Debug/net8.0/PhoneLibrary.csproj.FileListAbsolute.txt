@@ -1,0 +1,13 @@
+C:\Users\Никита\Labs\CSharp\Phone\obj\Debug\net8.0\PhoneLibrary.csproj.AssemblyReference.cache
+C:\Users\Никита\Labs\CSharp\Phone\obj\Debug\net8.0\PhoneLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Никита\Labs\CSharp\Phone\obj\Debug\net8.0\PhoneLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Labs\CSharp\Phone\bin\Debug\net8.0\PhoneLibrary.deps.json
+C:\Users\Никита\Labs\CSharp\Phone\bin\Debug\net8.0\PhoneLibrary.dll
+C:\Users\Никита\Labs\CSharp\Phone\bin\Debug\net8.0\PhoneLibrary.pdb
+C:\Users\Никита\Labs\CSharp\Phone\bin\Debug\net8.0\BarcodeLibrary.dll
+C:\Users\Никита\Labs\CSharp\Phone\bin\Debug\net8.0\BarcodeLibrary.pdb
+C:\Users\Никита\Labs\CSharp\Phone\obj\Debug\net8.0\PhoneLib.C4F16ED7.Up2Date
+C:\Users\Никита\Labs\CSharp\Phone\obj\Debug\net8.0\PhoneLibrary.dll
+C:\Users\Никита\Labs\CSharp\Phone\obj\Debug\net8.0\refint\PhoneLibrary.dll
+C:\Users\Никита\Labs\CSharp\Phone\obj\Debug\net8.0\PhoneLibrary.pdb
+C:\Users\Никита\Labs\CSharp\Phone\obj\Debug\net8.0\ref\PhoneLibrary.dll
