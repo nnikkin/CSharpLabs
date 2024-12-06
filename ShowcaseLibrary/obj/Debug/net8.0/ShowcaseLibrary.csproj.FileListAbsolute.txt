@@ -30,3 +30,4 @@ C:\Users\Никита\Labs\3\ShowcaseLibrary\obj\Debug\net8.0\ShowcaseLibrary.dl
 C:\Users\Никита\Labs\3\ShowcaseLibrary\obj\Debug\net8.0\refint\ShowcaseLibrary.dll
 C:\Users\Никита\Labs\3\ShowcaseLibrary\obj\Debug\net8.0\ShowcaseLibrary.pdb
 C:\Users\Никита\Labs\3\ShowcaseLibrary\obj\Debug\net8.0\ref\ShowcaseLibrary.dll
+C:\Users\Никита\Labs\3\ShowcaseLibrary\obj\Debug\net8.0\ShowcaseLibrary.sourcelink.json

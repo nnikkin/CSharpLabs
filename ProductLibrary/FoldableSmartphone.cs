@@ -12,14 +12,15 @@ namespace ProductLibrary
         /// Диагональ экрана в раскрытом виде, дюймы
         /// </summary>
         public double UnfoldedScreenSize { get; set; }
-        IBarcode IProduct.ItemBarcode => new BarcodeRecord(Id.ToString());
+        IBarcode IProduct.ItemBarcode => new BarcodeRecord("");
+        public override IBarcode ItemBarcode { get; }
 
         public FoldableSmartphone(int id, string model, double ramValue, double scrSizeFold, double camRes, string color, double scrSizeFull) :
             base(id, model, ramValue, scrSizeFold, camRes, color)
         {
-            ItemBarcode = new BarcodeRecord(id.ToString());
-            UnfoldedScreenSize = scrSizeFull;
-            PhoneType = "Складной смартфон";
+            this.ItemBarcode = new BarcodeRecord(id.ToString());
+            this.UnfoldedScreenSize = scrSizeFull;
+            this.PhoneType = "Складной смартфон";
         }
 
         public override string ItemInfo()

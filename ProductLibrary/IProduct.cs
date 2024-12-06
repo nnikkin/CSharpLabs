@@ -4,8 +4,8 @@ namespace ProductLibrary
 {
     public interface IProduct
     {
-        int Id { get; set; }
-        IBarcode ItemBarcode { get; }
-        string Model { get; set; }
+        public int Id { get; }
+        public IBarcode ItemBarcode { get; }
+        public string Model { get; }
     }
 }

@@ -1,4 +1,5 @@
-﻿using System.Text;
+﻿using BarcodeLibrary;
+using System.Text;
 
 namespace ProductLibrary
 {
@@ -25,8 +26,11 @@ namespace ProductLibrary
         /// </summary>
         public double MainCameraRes { get; set; }
 
+        public override IBarcode ItemBarcode {  get; }
+
         public Smartphone(int id, string model, double ramValue, double screenInches, double resolution, string color) : base(id, model)
         {
+            this.ItemBarcode = new Barcode(Id.ToString());
             this.Ram = ramValue;
             this.ScreenSize = screenInches;
             this.MainCameraRes = resolution;

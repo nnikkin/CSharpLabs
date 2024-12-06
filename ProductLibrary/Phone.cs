@@ -7,12 +7,12 @@ namespace ProductLibrary
     {
         private int _id;
 
-        public IBarcode ItemBarcode { get; set; }
+        public abstract IBarcode ItemBarcode { get; }
         public int Id {
-            get => _id; 
+            get => _id;
             set {
                 _id = value;
-                ItemBarcode = new Barcode(_id.ToString()); 
+                ItemBarcode.Text = _id.ToString();
             }
         }
 
@@ -28,14 +28,12 @@ namespace ProductLibrary
 
         protected Phone(int id, string model_name)
         {
-            ItemBarcode = new Barcode(id.ToString());
-            Id = id;
+            this._id = id;
             Model = model_name;
             PhoneType = "Телефон";
         }
 
         public abstract string ItemInfo();
-
         public override string ToString() => new StringBuilder($"{PhoneType} {Model}\n{ItemInfo()}\n{ItemBarcode}\n").ToString();
     }
 }

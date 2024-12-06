@@ -3,19 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\Labs\\3\\Barcode\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BBBF28E8-2358-40BA-A211-25C4E2E79091}|..\\ShowcaseLibrary\\ShowcaseLibrary.csproj|c:\\users\\\u043D\u0438\u043A\u0438\u0442\u0430\\labs\\3\\showcaselibrary\\showcase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7D95A41-6435-45FA-8015-8ECC3783C8BC}|..\\BarcodeLibrary\\BarcodeLibrary.csproj|c:\\users\\\u043D\u0438\u043A\u0438\u0442\u0430\\labs\\3\\barcodelibrary\\barcoderecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38D3424A-6EBF-419A-9C70-CAD4D057B647}|..\\ProductLibrary\\ProductLibrary.csproj|c:\\users\\\u043D\u0438\u043A\u0438\u0442\u0430\\labs\\3\\productlibrary\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7D95A41-6435-45FA-8015-8ECC3783C8BC}|..\\BarcodeLibrary\\BarcodeLibrary.csproj|c:\\users\\\u043D\u0438\u043A\u0438\u0442\u0430\\labs\\3\\barcodelibrary\\barcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7D95A41-6435-45FA-8015-8ECC3783C8BC}|..\\BarcodeLibrary\\BarcodeLibrary.csproj|c:\\users\\\u043D\u0438\u043A\u0438\u0442\u0430\\labs\\3\\barcodelibrary\\ibarcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F78162AC-232C-47A0-AEB8-CDE4D8A8573D}|Main.csproj|c:\\users\\\u043D\u0438\u043A\u0438\u0442\u0430\\labs\\3\\barcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F78162AC-232C-47A0-AEB8-CDE4D8A8573D}|Main.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\Labs\\CSharp\\ShowcaseClasses\\IShowcase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -24,14 +13,25 @@
       "AbsoluteMoniker": "D:0:0:{38D3424A-6EBF-419A-9C70-CAD4D057B647}|..\\ProductLibrary\\ProductLibrary.csproj|c:\\users\\\u043D\u0438\u043A\u0438\u0442\u0430\\labs\\3\\productlibrary\\smartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{38D3424A-6EBF-419A-9C70-CAD4D057B647}|..\\ProductLibrary\\ProductLibrary.csproj|c:\\users\\\u043D\u0438\u043A\u0438\u0442\u0430\\labs\\3\\productlibrary\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{38D3424A-6EBF-419A-9C70-CAD4D057B647}|..\\ProductLibrary\\ProductLibrary.csproj|c:\\users\\\u043D\u0438\u043A\u0438\u0442\u0430\\labs\\3\\productlibrary\\foldablesmartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F78162AC-232C-47A0-AEB8-CDE4D8A8573D}|Main.csproj|c:\\users\\\u043D\u0438\u043A\u0438\u0442\u0430\\labs\\3\\barcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F78162AC-232C-47A0-AEB8-CDE4D8A8573D}|Main.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{38D3424A-6EBF-419A-9C70-CAD4D057B647}|..\\ProductLibrary\\ProductLibrary.csproj|c:\\users\\\u043D\u0438\u043A\u0438\u0442\u0430\\labs\\3\\productlibrary\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38D3424A-6EBF-419A-9C70-CAD4D057B647}|..\\ProductLibrary\\ProductLibrary.csproj|c:\\users\\\u043D\u0438\u043A\u0438\u0442\u0430\\labs\\3\\productlibrary\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B7D95A41-6435-45FA-8015-8ECC3783C8BC}|..\\BarcodeLibrary\\BarcodeLibrary.csproj|c:\\users\\\u043D\u0438\u043A\u0438\u0442\u0430\\labs\\3\\barcodelibrary\\ibarcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D95A41-6435-45FA-8015-8ECC3783C8BC}|..\\BarcodeLibrary\\BarcodeLibrary.csproj|c:\\users\\\u043D\u0438\u043A\u0438\u0442\u0430\\labs\\3\\barcodelibrary\\barcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBBF28E8-2358-40BA-A211-25C4E2E79091}|..\\ShowcaseLibrary\\ShowcaseLibrary.csproj|c:\\users\\\u043D\u0438\u043A\u0438\u0442\u0430\\labs\\3\\showcaselibrary\\showcase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D95A41-6435-45FA-8015-8ECC3783C8BC}|..\\BarcodeLibrary\\BarcodeLibrary.csproj|c:\\users\\\u043D\u0438\u043A\u0438\u0442\u0430\\labs\\3\\barcodelibrary\\barcoderecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -41,7 +41,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Bookmark",
@@ -69,19 +69,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
+              "Title": "IBarcode.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\Labs\\3\\BarcodeLibrary\\IBarcode.cs",
+              "RelativeDocumentMoniker": "..\\BarcodeLibrary\\IBarcode.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\Labs\\3\\BarcodeLibrary\\IBarcode.cs",
+              "RelativeToolTip": "..\\BarcodeLibrary\\IBarcode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T11:55:52.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "IProduct.cs",
               "DocumentMoniker": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\Labs\\3\\ProductLibrary\\IProduct.cs",
               "RelativeDocumentMoniker": "..\\ProductLibrary\\IProduct.cs",
               "ToolTip": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\Labs\\3\\ProductLibrary\\IProduct.cs",
               "RelativeToolTip": "..\\ProductLibrary\\IProduct.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T11:55:04.412Z"
+              "WhenOpened": "2024-12-04T11:55:04.412Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "IShowcase.cs",
               "DocumentMoniker": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\Labs\\CSharp\\ShowcaseClasses\\IShowcase.cs",
               "RelativeDocumentMoniker": "..\\..\\CSharp\\ShowcaseClasses\\IShowcase.cs",
@@ -89,35 +103,25 @@
               "RelativeToolTip": "..\\..\\CSharp\\ShowcaseClasses\\IShowcase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T16:38:14.919Z"
+              "WhenOpened": "2024-11-27T16:38:14.919Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IBarcode.cs",
-              "DocumentMoniker": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\Labs\\3\\BarcodeLibrary\\IBarcode.cs",
-              "RelativeDocumentMoniker": "..\\BarcodeLibrary\\IBarcode.cs",
-              "ToolTip": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\Labs\\3\\BarcodeLibrary\\IBarcode.cs",
-              "RelativeToolTip": "..\\BarcodeLibrary\\IBarcode.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T11:55:52.521Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Barcode.cs",
               "DocumentMoniker": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\Labs\\3\\BarcodeLibrary\\Barcode.cs",
               "RelativeDocumentMoniker": "..\\BarcodeLibrary\\Barcode.cs",
               "ToolTip": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\Labs\\3\\BarcodeLibrary\\Barcode.cs",
               "RelativeToolTip": "..\\BarcodeLibrary\\Barcode.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBIAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T11:56:10.786Z"
+              "WhenOpened": "2024-12-04T11:56:10.786Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "BarcodeRecord.cs",
               "DocumentMoniker": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\Labs\\3\\BarcodeLibrary\\BarcodeRecord.cs",
               "RelativeDocumentMoniker": "..\\BarcodeLibrary\\BarcodeRecord.cs",
@@ -129,64 +133,68 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "Showcase.cs",
               "DocumentMoniker": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\Labs\\3\\ShowcaseLibrary\\Showcase.cs",
               "RelativeDocumentMoniker": "..\\ShowcaseLibrary\\Showcase.cs",
               "ToolTip": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\Labs\\3\\ShowcaseLibrary\\Showcase.cs",
               "RelativeToolTip": "..\\ShowcaseLibrary\\Showcase.cs",
-              "ViewState": "AgIAAMAAAAAAAAAAAAAAAKUAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-04T11:54:35.49Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "Phone.cs",
               "DocumentMoniker": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\Labs\\3\\ProductLibrary\\Phone.cs",
               "RelativeDocumentMoniker": "..\\ProductLibrary\\Phone.cs",
               "ToolTip": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\Labs\\3\\ProductLibrary\\Phone.cs",
               "RelativeToolTip": "..\\ProductLibrary\\Phone.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAEwA0AAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAzwCEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T11:55:07.176Z"
+              "WhenOpened": "2024-12-04T11:55:07.176Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Smartphone.cs",
               "DocumentMoniker": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\Labs\\3\\ProductLibrary\\Smartphone.cs",
               "RelativeDocumentMoniker": "..\\ProductLibrary\\Smartphone.cs",
               "ToolTip": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\Labs\\3\\ProductLibrary\\Smartphone.cs",
               "RelativeToolTip": "..\\ProductLibrary\\Smartphone.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA1wCwAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB4AAAB5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T11:55:09.365Z"
+              "WhenOpened": "2024-12-04T11:55:09.365Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "FoldableSmartphone.cs",
               "DocumentMoniker": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\Labs\\3\\ProductLibrary\\FoldableSmartphone.cs",
               "RelativeDocumentMoniker": "..\\ProductLibrary\\FoldableSmartphone.cs",
               "ToolTip": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\Labs\\3\\ProductLibrary\\FoldableSmartphone.cs",
               "RelativeToolTip": "..\\ProductLibrary\\FoldableSmartphone.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T11:55:11.074Z"
+              "WhenOpened": "2024-12-04T11:55:11.074Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\Labs\\3\\Barcode\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\Labs\\3\\Barcode\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAhwHIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T14:20:39.538Z"
+              "WhenOpened": "2024-11-13T14:20:39.538Z",
+              "EditorCaption": ""
             }
           ]
         }

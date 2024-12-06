@@ -26,3 +26,4 @@ C:\Users\Никита\Labs\3\ProductLibrary\obj\Debug\net8.0\ProductLibrary.dll
 C:\Users\Никита\Labs\3\ProductLibrary\obj\Debug\net8.0\refint\ProductLibrary.dll
 C:\Users\Никита\Labs\3\ProductLibrary\obj\Debug\net8.0\ProductLibrary.pdb
 C:\Users\Никита\Labs\3\ProductLibrary\obj\Debug\net8.0\ref\ProductLibrary.dll
+C:\Users\Никита\Labs\3\ProductLibrary\obj\Debug\net8.0\ProductLibrary.sourcelink.json
